@@ -13,3 +13,4 @@ npx hardhat node
 node scripts/sample-script.js
 npx hardhat help
 ```
+#There are comments on the scripts for the commmands used to test the contracts, use npm install -y to get all the packages
